@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>html tutorial</title>
+<h1>welcome to tutorial</h1>
+</head>
+<body>
+<p>HTML is the standard markup language for Web pages, with HTML you can create your own Website.</p>
+<br>
+<p> here are some list of topics for HTML</p>
+<ol>
+<li>html element</li>
+<li>html attributes</li>
+<li>html heading</li>
+<li>html paragraph</li>
+<li>html colors</li>
+</html>
+
